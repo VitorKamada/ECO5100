@@ -31,3 +31,22 @@ Under my supervision, my students from Georgia Tech recorded videos that cover t
 
 
 
+
+**Slides:**
+
+[Winter 2020](https://github.com/VitorKamada/ECO5100/tree/master/Slides/Winter%202020): Data Science
+
+[Winter 2019](https://github.com/VitorKamada/ECO5100/tree/master/Slides/Winter%202019): Finance
+
+[Winter 2018](https://github.com/VitorKamada/ECO5100/tree/master/Slides/Winter%202018): Machine Learning
+
+
+**Syllabi:**
+
+[Winter 2020](https://github.com/VitorKamada/ECO5100/raw/master/Syllabus/ECO%205100%20Introductory%20Statistics%20and%20Econometrics%20(Winter%202020).pdf): Data Science
+
+[Winter 2019](https://github.com/VitorKamada/ECO5100/raw/master/Syllabus/ECO%205100%20Introductory%20Statistics%20and%20Econometrics%20(Winter%202019).pdf): Finance
+
+[Winter 2018](https://github.com/VitorKamada/ECO5100/raw/master/Syllabus/ECO%205100%20Introductory%20Statistics%20and%20Econometrics%20(Winter%202018).pdf): Machine Learning
+
+
